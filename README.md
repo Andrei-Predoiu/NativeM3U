@@ -1,4 +1,4 @@
-# m3u-master
+#  NativeM3u
 
 
 Cross platform utility that loads m3u playlists
